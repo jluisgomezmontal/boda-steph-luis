@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a03f52dc.css",
+    "main.js": "/static/js/main.1fbcc1a3.js",
+    "static/js/787.19df8071.chunk.js": "/static/js/787.19df8071.chunk.js",
+    "static/media/playaDos.jpg": "/static/media/playaDos.8a3fecef8ec19fc9b306.jpg",
+    "index.html": "/index.html",
+    "main.a03f52dc.css.map": "/static/css/main.a03f52dc.css.map",
+    "main.1fbcc1a3.js.map": "/static/js/main.1fbcc1a3.js.map",
+    "787.19df8071.chunk.js.map": "/static/js/787.19df8071.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03f52dc.css",
+    "static/js/main.1fbcc1a3.js"
+  ]
+}
